@@ -1,0 +1,5 @@
+name: login
+framework:
+  type: perl
+instances: 3
+mem: 64M
